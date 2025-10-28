@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Federico",
+        "surname": "Esposito",
+        "age": "17",
+        "user.name": "federico.eposito"
+    },
+    {
+        "name": "Ileana",
+        "surname": "Esposito",
+        "age": "17",
+        "user.name": "ileana.eposito"
+    },
+    {
+        "name": "Davide",
+        "surname": "Cesari",
+        "age": "42",
+        "user.name": "davide.cesari"
+    }
+]
